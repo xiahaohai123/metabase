@@ -7,6 +7,10 @@
 [![Latest Release](https://img.shields.io/github/release/metabase/metabase.svg?label=latest%20release)](https://github.com/metabase/metabase/releases)
 [![codecov](https://codecov.io/gh/metabase/metabase/branch/master/graph/badge.svg)](https://codecov.io/gh/metabase/metabase)
 ![Docker Pulls](https://img.shields.io/docker/pulls/metabase/metabase)
+![7d4906f014cc51bc6451477de48435b](https://github.com/user-attachments/assets/bb58e739-678d-4861-ab08-2fa701ca69fb)
+![f54c946f7e6df29de0626de43df5c8f](https://github.com/user-attachments/assets/9cce64a8-0e7d-4de1-ac16-c2a630a582f8)
+![6f681010faa2dbc3dc4a9dc339f91d4](https://github.com/user-attachments/assets/dc87b60b-8bf3-4926-b7cd-9b9796003981)
+
 
 ## Get started
 
